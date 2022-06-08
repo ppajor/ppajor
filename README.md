@@ -17,7 +17,7 @@
 </div>
 </br>
 <ul>
-  <li> ⚡ I'm open for learning new technologies associated with Frontend Development!</li>
+ <li> ⚡ What I want to learn next? Redux, Typescript and more! I'm open for new technologies which can develop my skills in Frontend Development!</li>
 <li> 📫 You can reach me via mail: pawelpajor8@wp.pl or <a href="https://www.linkedin.com/mwlite/in/pawe%C5%82-pajor-b4105323a">linkedin</a> </li>
 </ul>                                                                                                                
                              
