@@ -1,7 +1,7 @@
 ### Hi I'm Paweł! 👋
 
 - 🧑‍🎓 I'm currently a second degree IT student
-- 💼 I'm looking for a job as Frontend Developer
+- 💼 I'm a Frontend Developer
 - 💻 Technologies which I use in my projects:
 
 <div style={display:"flex",flex-direction:"row"}>
